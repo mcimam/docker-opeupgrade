@@ -1,0 +1,7 @@
+# exclude specific dump file
+DUMP.sql
+LATEST.sql
+OUTPUT.sql
+
+# exclude .ide
+.vscode
